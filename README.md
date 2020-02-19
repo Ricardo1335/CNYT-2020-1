@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+#Calculadora de Numeros Complejos
 
-You can use the [editor on GitHub](https://github.com/Ricardo1335/CNYT-2020-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este repositorio cuenta con una calculadora de numeros, vectoresy matrices complejas, que está programada en phyton e incluye pruebas sobre el funcionamiento de las siguientes operaciones 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Adición de vectores complejos.
+- Inverso (aditivo) de un vector complejo.
+- Multiplicación de un escalar por un vector complejo.
+- Adición de matrices complejas.
+- Inversa (aditiva) de una matriz compleja.
+- Multiplicación de un escalar por una matriz compleja.
+- Transpuesta de una matriz / vector
+- Conjugada de una matriz / vector
+- Adjunta (daga) de una matriz / vector
+- Producto de dos matrices (de tamaños compatibles)
+- Función para calcular la "acción" de una matriz sobre un vector.
+- Producto interno de dos vectores
+- Norma de un vector
+- Distancia entre dos vectores
+- Revisar si una matriz es unitaria
+- Revisar si una matriz es Hermitiana
+- Producto tensor de dos matrices / vectores
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Getting Started
 
-```markdown
-Syntax highlighted code block
+Para poder descargar y utilizar esta calculadora debe seleccionar todo el texto (codigo) y copiarlo en un archivo de phyton (.py), para correr y crear más pruebas a la libreria. Se debe poner la libreria en la misma direccion de archivo que las pruebas para que funcione.
 
-# Header 1
-## Header 2
-### Header 3
+##Prerequisites
 
-- Bulleted
-- List
+Se uso el lenguaje python y se editó en IDLE. 
+Cualquier editor de python (.py) sera suficiente para utilizar la libreria
 
-1. Numbered
-2. List
+##Built With
+IDLE - Python 3.8.1 64-Bit
 
-**Bold** and _Italic_ and `Code` text
+##Contributing
+Profesor LUIS DANIEL BENAVIDES NAVARRO
 
-[Link](url) and ![Image](src)
-```
+##Version 0.3
+6 actualizaciones a la fecha (19/02/2020)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###Authors
+Ricardo Amaya Rivera - Estudiante ISIS
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ricardo1335/CNYT-2020-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Esta librería y sus pruebas fueron realizadas como proyecto durante las sesiones de laboratorio de la materia de CNYT orientada por el docente LUIS DANIEL BENAVIDES NAVARRO

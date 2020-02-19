@@ -1,4 +1,4 @@
-#Calculadora de Numeros Complejos
+### **Calculadora de Numeros Complejos**
 
 Este repositorio cuenta con una calculadora de numeros, vectoresy matrices complejas, que está programada en phyton e incluye pruebas sobre el funcionamiento de las siguientes operaciones 
 
@@ -21,25 +21,25 @@ Este repositorio cuenta con una calculadora de numeros, vectoresy matrices compl
 - Producto tensor de dos matrices / vectores
 
 
-##Getting Started
+## Getting Started
 
 Para poder descargar y utilizar esta calculadora debe seleccionar todo el texto (codigo) y copiarlo en un archivo de phyton (.py), para correr y crear más pruebas a la libreria. Se debe poner la libreria en la misma direccion de archivo que las pruebas para que funcione.
 
-##Prerequisites
+## Prerequisites
 
 Se uso el lenguaje python y se editó en IDLE. 
 Cualquier editor de python (.py) sera suficiente para utilizar la libreria
 
-##Built With
+## Built With
 IDLE - Python 3.8.1 64-Bit
 
-##Contributing
+## Contributing
 Profesor LUIS DANIEL BENAVIDES NAVARRO
 
-##Version 0.3
+## Version 0.3
 6 actualizaciones a la fecha (19/02/2020)
 
-###Authors
+### Authors
 Ricardo Amaya Rivera - Estudiante ISIS
 
 Esta librería y sus pruebas fueron realizadas como proyecto durante las sesiones de laboratorio de la materia de CNYT orientada por el docente LUIS DANIEL BENAVIDES NAVARRO

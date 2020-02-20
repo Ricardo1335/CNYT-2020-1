@@ -21,25 +21,26 @@ Este repositorio cuenta con una calculadora de numeros, vectoresy matrices compl
 - Producto tensor de dos matrices / vectores
 
 
-## Getting Started
+## Empezando
 
 Para poder descargar y utilizar esta calculadora debe seleccionar todo el texto (codigo) y copiarlo en un archivo de phyton (.py), para correr y crear más pruebas a la libreria. Se debe poner la libreria en la misma direccion de archivo que las pruebas para que funcione.
+Para corres las pruebas debe correr el archivo pruebalibreriacomplejos.py
 
-## Prerequisites
+## Prerrequisitos
 
 Se uso el lenguaje python y se editó en IDLE. 
 Cualquier editor de python (.py) sera suficiente para utilizar la libreria
 
-## Built With
+## Construido con
 IDLE - Python 3.8.1 64-Bit
 
-## Contributing
+## Contribuidores
 Profesor LUIS DANIEL BENAVIDES NAVARRO
 
-## Version 0.3
-6 actualizaciones a la fecha (19/02/2020)
+## Version 0.4
+7 actualizaciones a la fecha (19/02/2020)
 
-### Authors
+### Autores
 Ricardo Amaya Rivera - Estudiante ISIS
 
 Esta librería y sus pruebas fueron realizadas como proyecto durante las sesiones de laboratorio de la materia de CNYT orientada por el docente LUIS DANIEL BENAVIDES NAVARRO
